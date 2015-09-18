@@ -13,3 +13,4 @@ Two ideas so far:
       -Alternate option would be taking a data set of environments with the objects in the environment and seeing how well the A.I. performs at the identification of different objects in the picture
       -Another option could be naming things it recognizes in the image from its training phases
 
+Chapters 22 and 24 in the book describe Natural Language processing and Computer vision, respectively
