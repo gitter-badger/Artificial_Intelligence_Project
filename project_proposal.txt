@@ -1,0 +1,15 @@
+Initial notes for the project proposal
+
+Two ideas so far:
+
+1. Natural Language Slang Discovery 
+    - Pulls data from Twitter
+    - Takes the data and looks for particular words and trys to find their slang alterations
+
+2. Computer Vision Object Analysis
+    - Takes from an image data set
+      - Processes it in a training phase to learn different kinds of objects
+    - Then name objects in real-time environments from a computer connected camera or smart-phone
+      -Alternate option would be taking a data set of environments with the objects in the environment and seeing how well the A.I. performs at the identification of different objects in the picture
+      -Another option could be naming things it recognizes in the image from its training phases
+
